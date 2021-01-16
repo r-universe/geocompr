@@ -8,3 +8,8 @@
 	url = https://github.com/geocompr/geocompkg
 	shallow = true
 	registered = true
+[submodule "spDataLarge"]
+	path = spDataLarge
+	url = https://github.com/nowosad/spDataLarge
+	shallow = true
+	registered = false
