@@ -13,3 +13,8 @@
 	url = https://github.com/nowosad/spDataLarge
 	shallow = true
 	registered = false
+[submodule "terra"]
+	path = terra
+	url = https://github.com/rspatial/terra
+	shallow = true
+	registered = false

@@ -4,5 +4,11 @@
     "url": "https://github.com/nowosad/spDataLarge",
     "via": ["geocompkg"],
     "from": "geocompkg"
+  },
+  {
+    "package": "terra",
+    "url": "https://github.com/rspatial/terra",
+    "via": ["geocompkg"],
+    "from": "geocompkg"
   }
 ]
