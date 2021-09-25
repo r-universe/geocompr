@@ -1,5 +1,11 @@
 [
   {
+    "package": "spData",
+    "url": "https://github.com/nowosad/spData",
+    "via": ["geocompkg"],
+    "from": "geocompkg"
+  },
+  {
     "package": "spDataLarge",
     "url": "https://github.com/nowosad/spDataLarge",
     "via": ["geocompkg"],
