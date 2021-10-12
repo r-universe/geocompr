@@ -3,6 +3,11 @@
 	url = https://github.com/geocompr/universe
 	shallow = true
 	branch = HEAD
+[submodule "geocompkg"]
+	path = geocompkg
+	url = https://github.com/geocompr/geocompkg
+	shallow = true
+	registered = true
 [submodule "spData"]
 	path = spData
 	url = https://github.com/nowosad/spData
