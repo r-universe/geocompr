@@ -23,3 +23,8 @@
 	url = https://github.com/rspatial/terra
 	shallow = true
 	registered = false
+[submodule "tmap"]
+	path = tmap
+	url = https://github.com/mtennekes/tmap
+	shallow = true
+	registered = false

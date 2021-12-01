@@ -16,5 +16,11 @@
     "url": "https://github.com/rspatial/terra",
     "via": ["geocompkg"],
     "from": "geocompkg"
+  },
+  {
+    "package": "tmap",
+    "url": "https://github.com/mtennekes/tmap",
+    "via": ["geocompkg"],
+    "from": "geocompkg"
   }
 ]
