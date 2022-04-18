@@ -42,12 +42,6 @@
     "from": "geocompkg"
   },
   {
-    "package": "spData",
-    "url": "https://github.com/nowosad/spData",
-    "via": ["geocompkg"],
-    "from": "geocompkg"
-  },
-  {
     "package": "spDataLarge",
     "url": "https://github.com/nowosad/spDataLarge",
     "via": ["geocompkg"],
@@ -57,12 +51,6 @@
     "package": "survivalmodels",
     "url": "https://github.com/RaphaelS1/survivalmodels",
     "via": ["geocompkg", "mlr3extralearners"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "terra",
-    "url": "https://github.com/rspatial/terra",
-    "via": ["geocompkg"],
     "from": "geocompkg"
   },
   {

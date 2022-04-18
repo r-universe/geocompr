@@ -43,11 +43,6 @@
 	url = https://github.com/xoopR/set6
 	shallow = true
 	registered = false
-[submodule "spData"]
-	path = spData
-	url = https://github.com/nowosad/spData
-	shallow = true
-	registered = false
 [submodule "spDataLarge"]
 	path = spDataLarge
 	url = https://github.com/nowosad/spDataLarge
@@ -56,11 +51,6 @@
 [submodule "survivalmodels"]
 	path = survivalmodels
 	url = https://github.com/RaphaelS1/survivalmodels
-	shallow = true
-	registered = false
-[submodule "terra"]
-	path = terra
-	url = https://github.com/rspatial/terra
 	shallow = true
 	registered = false
 [submodule "tmap"]
