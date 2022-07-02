@@ -8,7 +8,7 @@
   {
     "package": "distr6",
     "url": "https://github.com/alan-turing-institute/distr6",
-    "via": ["geocompkg", "mlr3extralearners"],
+    "via": ["geocompkg", "mlr3extralearners", "mlr3proba"],
     "from": "geocompkg"
   },
   {
@@ -24,21 +24,9 @@
     "from": "geocompkg"
   },
   {
-    "package": "param6",
-    "url": "https://github.com/xoopR/param6",
-    "via": ["geocompkg", "mlr3extralearners"],
-    "from": "geocompkg"
-  },
-  {
     "package": "qgisprocess",
     "url": "https://github.com/paleolimbot/qgisprocess",
     "via": ["geocompkg"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["geocompkg", "mlr3extralearners"],
     "from": "geocompkg"
   },
   {
