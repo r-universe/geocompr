@@ -18,6 +18,11 @@
 	url = https://github.com/alan-turing-institute/distr6
 	shallow = true
 	registered = false
+[submodule "mlr3"]
+	path = mlr3
+	url = https://github.com/mlr-org/mlr3
+	shallow = true
+	registered = false
 [submodule "mlr3extralearners"]
 	path = mlr3extralearners
 	url = https://github.com/mlr-org/mlr3extralearners
@@ -28,9 +33,19 @@
 	url = https://github.com/mlr-org/mlr3proba
 	shallow = true
 	registered = false
+[submodule "param6"]
+	path = param6
+	url = https://github.com/xoopR/param6
+	shallow = true
+	registered = false
 [submodule "qgisprocess"]
 	path = qgisprocess
 	url = https://github.com/paleolimbot/qgisprocess
+	shallow = true
+	registered = false
+[submodule "set6"]
+	path = set6
+	url = https://github.com/xoopR/set6
 	shallow = true
 	registered = false
 [submodule "spDataLarge"]
