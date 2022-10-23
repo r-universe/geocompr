@@ -20,12 +20,6 @@
   {
     "package": "distr6",
     "url": "https://github.com/alan-turing-institute/distr6",
-    "via": ["geocompkg", "mlr3extralearners", "mlr3proba", "mlr3"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "distr6",
-    "url": "https://github.com/alan-turing-institute/distr6",
     "via": ["geocompkg", "mlr3extralearners", "survivalmodels"],
     "from": "geocompkg"
   },
@@ -33,12 +27,6 @@
     "package": "distr6",
     "url": "https://github.com/alan-turing-institute/distr6",
     "via": ["geocompkg", "mlr3proba"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "distr6",
-    "url": "https://github.com/alan-turing-institute/distr6",
-    "via": ["geocompkg", "mlr3proba", "mlr3"],
     "from": "geocompkg"
   },
   {
@@ -72,6 +60,12 @@
     "from": "geocompkg"
   },
   {
+    "package": "mlr3spatiotempcv",
+    "url": "https://github.com/mlr-org/mlr3spatiotempcv",
+    "via": ["geocompkg"],
+    "from": "geocompkg"
+  },
+  {
     "package": "param6",
     "url": "https://github.com/xoopR/param6",
     "via": ["geocompkg", "mlr3extralearners", "distr6"],
@@ -87,12 +81,6 @@
     "package": "param6",
     "url": "https://github.com/xoopR/param6",
     "via": ["geocompkg", "mlr3extralearners", "mlr3proba"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "param6",
-    "url": "https://github.com/xoopR/param6",
-    "via": ["geocompkg", "mlr3extralearners", "mlr3proba", "mlr3", "distr6"],
     "from": "geocompkg"
   },
   {
@@ -123,12 +111,6 @@
     "package": "param6",
     "url": "https://github.com/xoopR/param6",
     "via": ["geocompkg", "mlr3proba"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "param6",
-    "url": "https://github.com/xoopR/param6",
-    "via": ["geocompkg", "mlr3proba", "mlr3", "distr6"],
     "from": "geocompkg"
   },
   {
@@ -171,18 +153,6 @@
     "package": "set6",
     "url": "https://github.com/xoopR/set6",
     "via": ["geocompkg", "mlr3extralearners", "mlr3proba"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["geocompkg", "mlr3extralearners", "mlr3proba", "mlr3", "distr6"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["geocompkg", "mlr3extralearners", "mlr3proba", "mlr3", "distr6", "param6"],
     "from": "geocompkg"
   },
   {
@@ -246,15 +216,9 @@
     "from": "geocompkg"
   },
   {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["geocompkg", "mlr3proba", "mlr3", "distr6"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
-    "via": ["geocompkg", "mlr3proba", "mlr3", "distr6", "param6"],
+    "package": "sfnetworks",
+    "url": "https://github.com/luukvdmeer/sfnetworks",
+    "via": ["geocompkg"],
     "from": "geocompkg"
   },
   {

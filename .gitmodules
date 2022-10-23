@@ -33,6 +33,11 @@
 	url = https://github.com/mlr-org/mlr3proba
 	shallow = true
 	registered = false
+[submodule "mlr3spatiotempcv"]
+	path = mlr3spatiotempcv
+	url = https://github.com/mlr-org/mlr3spatiotempcv
+	shallow = true
+	registered = false
 [submodule "param6"]
 	path = param6
 	url = https://github.com/xoopR/param6
@@ -46,6 +51,11 @@
 [submodule "set6"]
 	path = set6
 	url = https://github.com/xoopR/set6
+	shallow = true
+	registered = false
+[submodule "sfnetworks"]
+	path = sfnetworks
+	url = https://github.com/luukvdmeer/sfnetworks
 	shallow = true
 	registered = false
 [submodule "spDataLarge"]
