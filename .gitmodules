@@ -53,11 +53,6 @@
 	url = https://github.com/xoopR/set6
 	shallow = true
 	registered = false
-[submodule "sfnetworks"]
-	path = sfnetworks
-	url = https://github.com/luukvdmeer/sfnetworks
-	shallow = true
-	registered = false
 [submodule "spDataLarge"]
 	path = spDataLarge
 	url = https://github.com/nowosad/spDataLarge

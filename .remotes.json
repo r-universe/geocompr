@@ -216,12 +216,6 @@
     "from": "geocompkg"
   },
   {
-    "package": "sfnetworks",
-    "url": "https://github.com/luukvdmeer/sfnetworks",
-    "via": ["geocompkg"],
-    "from": "geocompkg"
-  },
-  {
     "package": "spDataLarge",
     "url": "https://github.com/nowosad/spDataLarge",
     "via": ["geocompkg"],
