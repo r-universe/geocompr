@@ -13,19 +13,25 @@
 	url = https://github.com/binderh/CoxBoost
 	shallow = true
 	registered = false
+[submodule "catboost"]
+	path = catboost
+	url = https://github.com/catboost/catboost
+	shallow = true
+	subdir = catboost/R-package
+	registered = false
 [submodule "distr6"]
 	path = distr6
 	url = https://github.com/alan-turing-institute/distr6
 	shallow = true
 	registered = false
-[submodule "mlr3"]
-	path = mlr3
-	url = https://github.com/mlr-org/mlr3
-	shallow = true
-	registered = false
 [submodule "mlr3extralearners"]
 	path = mlr3extralearners
 	url = https://github.com/mlr-org/mlr3extralearners
+	shallow = true
+	registered = false
+[submodule "mlr3filters"]
+	path = mlr3filters
+	url = https://github.com/mlr-org/mlr3filters
 	shallow = true
 	registered = false
 [submodule "mlr3proba"]

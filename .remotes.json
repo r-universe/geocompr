@@ -6,6 +6,13 @@
     "from": "geocompkg"
   },
   {
+    "package": "catboost",
+    "url": "https://github.com/catboost/catboost",
+    "via": ["geocompkg", "mlr3extralearners"],
+    "subdir": "catboost/R-package",
+    "from": "geocompkg"
+  },
+  {
     "package": "distr6",
     "url": "https://github.com/alan-turing-institute/distr6",
     "via": ["geocompkg", "mlr3extralearners"],
@@ -30,21 +37,15 @@
     "from": "geocompkg"
   },
   {
-    "package": "mlr3",
-    "url": "https://github.com/mlr-org/mlr3",
-    "via": ["geocompkg", "mlr3extralearners", "mlr3proba"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "mlr3",
-    "url": "https://github.com/mlr-org/mlr3",
-    "via": ["geocompkg", "mlr3proba"],
-    "from": "geocompkg"
-  },
-  {
     "package": "mlr3extralearners",
     "url": "https://github.com/mlr-org/mlr3extralearners",
     "via": ["geocompkg"],
+    "from": "geocompkg"
+  },
+  {
+    "package": "mlr3filters",
+    "url": "https://github.com/mlr-org/mlr3filters",
+    "via": ["geocompkg", "mlr3spatiotempcv"],
     "from": "geocompkg"
   },
   {
