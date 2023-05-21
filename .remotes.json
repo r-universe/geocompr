@@ -218,6 +218,12 @@
   },
   {
     "package": "spDataLarge",
+    "url": "https://github.com/Nowosad/spDataLarge",
+    "via": ["geocompkg", "qgisprocess"],
+    "from": "geocompkg"
+  },
+  {
+    "package": "spDataLarge",
     "url": "https://github.com/nowosad/spDataLarge",
     "via": ["geocompkg"],
     "from": "geocompkg"
@@ -226,12 +232,6 @@
     "package": "survivalmodels",
     "url": "https://github.com/RaphaelS1/survivalmodels",
     "via": ["geocompkg", "mlr3extralearners"],
-    "from": "geocompkg"
-  },
-  {
-    "package": "tmap",
-    "url": "https://github.com/mtennekes/tmap",
-    "via": ["geocompkg"],
     "from": "geocompkg"
   }
 ]
