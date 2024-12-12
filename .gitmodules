@@ -21,7 +21,7 @@
 	registered = false
 [submodule "geocompkg"]
 	path = geocompkg
-	url = https://github.com/geocompr/geocompkg
+	url = https://github.com/geocompx/geocompkg
 [submodule "mlr3"]
 	path = mlr3
 	url = https://github.com/mlr-org/mlr3
