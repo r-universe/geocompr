@@ -51,3 +51,7 @@
 	path = survivalmodels
 	url = https://github.com/RaphaelS1/survivalmodels
 	registered = false
+[submodule "z22"]
+	path = z22
+	url = https://github.com/jslth/z22
+	registered = false
