@@ -66,11 +66,5 @@
     "url": "https://github.com/RaphaelS1/survivalmodels",
     "via": ["geocompkg", "mlr3extralearners"],
     "from": "geocompkg"
-  },
-  {
-    "package": "z22",
-    "url": "https://github.com/jslth/z22",
-    "via": ["geocompkg"],
-    "from": "geocompkg"
   }
 ]
